@@ -1,6 +1,6 @@
 ## OLÁ! Eu sou o Cristian Pietro
 
-- 🌱 Estou estudando HTMl, CSS e JAvasScript
+- 🌱 Estou estudando HTMl, CSS e JavasScript
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
