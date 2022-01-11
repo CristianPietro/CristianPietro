@@ -1,7 +1,6 @@
-## OLÁ! Eu sou o Cristian Pietro
+## OLÁ! Eu sou o Cristian Pietro.
 
-- 🌱 Estou estudando HTMl, CSS e JavasScript
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudante de HTML, css e JavaScript.
 
 <div align="center">
   <a href="https://github.com/CristianPietro">
