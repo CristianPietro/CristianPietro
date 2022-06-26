@@ -1,6 +1,6 @@
-## OLÁ! Eu sou o Cristian Pietro.
+## OI! Eu sou o Cristian Pietro.
 
-- 🌱 Estudante de HTML, css e JavaScript.
+- 🌱 Estudante de HTML, CSS, JavaScript e PHP.
 
 <div align="center">
   <a href="https://github.com/CristianPietro">
